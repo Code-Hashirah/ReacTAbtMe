@@ -20,7 +20,7 @@ function App() {
             height:'150px',
           }}/>
           <p style={{width:'100%'}}>
-                  I am Abba, a Nigerian male,
+                  I am Kabir, a Nigerian male,
               My skills in web development, I love to unveil,
               Fullstack is my expertise, a talent I embrace,
               In code, I find joy, in solving problems, my space.
@@ -41,7 +41,7 @@ function App() {
           </p>
 
           <p>
-          Abba, my name, a rhythm so fine,
+              Kabir, my name, a rhythm so fine,
               A unique identity, that is truly mine,
               As a web developer, as a Muslim Nigerian male,
               My journey, my story, I am proud to unveil.
